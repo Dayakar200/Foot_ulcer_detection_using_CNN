@@ -86,3 +86,10 @@ This will save `ulcer_unet.pth` which can be moved to `backend/weights/` for inf
 
 ---
 **Disclaimer:** This system is for research and demonstration purposes. Always consult a medical professional for clinical diagnosis.
+
+
+Here's are the live application links:
+
+for frontend: https://foot-ulcer-detection-using-cnn-mbpx-ahnmha8yy.vercel.app/
+
+for backend: https://foot-ulcer-detection-using-cnn-2.onrender.com/
