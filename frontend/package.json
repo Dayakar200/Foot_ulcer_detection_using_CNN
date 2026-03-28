@@ -5,8 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "prebuild": "chmod +x node_modules/.bin/tsc",
     "build": "tsc && vite build",
+=======
+    "build": "vite build",
+>>>>>>> ae2bfd2 (changed the package.json file to include the new dependencies and scripts for the frontend application. This will allow us to build and deploy the frontend more efficiently.)
     "preview": "vite preview"
   },
   "dependencies": {
