@@ -9,7 +9,7 @@ export default defineConfig({
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom'],
-          ui: ['lucide-react', 'framer-motion', 'recharts', 'tailwind-merge', 'clsx'],
+          ui: ['lucide-react', 'framer-motion', 'tailwind-merge', 'clsx'],
           pdf: ['jspdf'],
           chart: ['recharts'],
         },
